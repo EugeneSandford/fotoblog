@@ -23,7 +23,7 @@ De manière globale à l'ensemble des projets développés, l'environnement tech
 
 ## Système d'exploitation et outils technologiques utilisés
 - Linux Mint sur PC
-- Codium (VS code like open source)
+- Codium, un outil Open Source d'édition de code bien comparable à Visual Studio Code
 
 ## Les autres outils technologiques prévus
 Le reste des outils technologiques marquants seront listées ici au fur et à mesure
