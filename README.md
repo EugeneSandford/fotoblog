@@ -18,7 +18,7 @@ les abonnés doivent pouvoir choisir quels créateurs ils veulent suivre."
 # Environnement
 L'environnement technologique suivra les principes suivants, quand c'est possible, des outils :
 - Open Source,
-- sécurisés,
+- sécurisés et respectant le Réglement Général sur Protection des Données RGPD,
 - souverains.
 
 ## Système d'exploitation et outils technologiques utilisés
