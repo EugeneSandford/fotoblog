@@ -16,7 +16,7 @@ Ce contenu doit ensuite être partagé dans un flux social, et
 les abonnés doivent pouvoir choisir quels créateurs ils veulent suivre."
 
 # Environnement
-L'environnement technologique suivra les principes suivants, quand c'est possible, des outils :
+De manière globale à l'ensemble des projets développés, l'environnement technologique suivra les principes suivants, quand c'est possible, des outils :
 - Open Source,
 - sécurisés et respectant le Réglement Général sur Protection des Données RGPD,
 - souverains.
