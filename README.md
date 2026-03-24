@@ -16,10 +16,10 @@ Ce contenu doit ensuite être partagé dans un flux social, et
 les abonnés doivent pouvoir choisir quels créateurs ils veulent suivre.
 
 # Environnement
-L'environnement technologique suivra les principes suivants, quand c'est possible :
-- des outils Open Source,
-- des outils sécurisés,
-- des outils souverains.
+L'environnement technologique suivra les principes suivants, quand c'est possible, des outils :
+- Open Source,
+- sécurisés,
+- souverains.
 
 ## Système d'exploitation et outils technologiques utilisés
 - Linux Mint sur PC
@@ -55,7 +55,8 @@ L'IA sera utilisé dans :
 - Git et Github.
 
 ## Manquements actuels à ces principes
-Nous avons déjà des manquements actuels à ces règles.
+Nous avons déjà des manquements actuels à ces règles. :-(
+
 
 ### Github
 L'outil Github appartient à Microsoft et contrevient aux règles édictées plus haut.
