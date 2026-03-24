@@ -13,7 +13,7 @@ vous ont demandé de créer une application web qui leur permette justement de f
 Ils ont besoin d’avoir deux types d’utilisateurs, les abonnés et les créateurs.
 Seuls les créateurs doivent pouvoir créer du contenu.
 Ce contenu doit ensuite être partagé dans un flux social, et
-les abonnés doivent pouvoir choisir quels créateurs ils veulent suivre.
+les abonnés doivent pouvoir choisir quels créateurs ils veulent suivre."
 
 # Environnement
 L'environnement technologique suivra les principes suivants, quand c'est possible, des outils :
