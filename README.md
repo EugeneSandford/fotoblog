@@ -15,10 +15,10 @@ Seuls les créateurs doivent pouvoir créer du contenu.
 Ce contenu doit ensuite être partagé dans un flux social, et
 les abonnés doivent pouvoir choisir quels créateurs ils veulent suivre."
 
-# Environnement
-De manière globale à l'ensemble des projets développés, l'environnement technologique suivra les principes suivants, quand c'est possible, des outils :
+# Environnement global de l'ensemble des projets développés
+L'environnement technologique suivra les principes suivants, quand c'est possible, des outils :
 - Open Source,
-- sécurisés et respectant le Réglement Général sur Protection des Données RGPD,
+- sécurisés et respectant les principes édictées par le Réglement Général sur Protection des Données RGPD,
 - souverains.
 
 ## Système d'exploitation et outils technologiques utilisés
