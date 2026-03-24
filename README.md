@@ -15,8 +15,8 @@ Seuls les créateurs doivent pouvoir créer du contenu.
 Ce contenu doit ensuite être partagé dans un flux social, et
 les abonnés doivent pouvoir choisir quels créateurs ils veulent suivre."
 
-# Environnement global de l'ensemble des projets développés
-L'environnement technologique suivra les principes suivants, quand c'est possible, des outils :
+# Environnement global et technologique de l'ensemble des projets développés
+L'environnement de développement suivra les principes suivants, quand c'est possible, des outils :
 - Open Source,
 - sécurisés et respectant les principes édictées par le Réglement Général sur Protection des Données RGPD,
 - souverains.
@@ -24,6 +24,11 @@ L'environnement technologique suivra les principes suivants, quand c'est possibl
 ## Système d'exploitation et outils technologiques utilisés
 - Linux Mint sur PC
 - Codium, un outil Open Source d'édition de code bien comparable à Visual Studio Code
+
+## Les technologies liées au code
+- le langage Python,
+- le framework Django et
+- Git et Github.
 
 ## Les autres outils technologiques prévus
 Le reste des outils technologiques marquants seront listées ici au fur et à mesure
@@ -48,11 +53,6 @@ L'IA sera utilisé dans :
 - le contrôle qualité du code par :
   - une assistance à la création des tests, et
   - (si possible) des audits réguliers du code produit, conforme aux normes en la matière.
-
-## Les technologies liées au code
-- le langage Python,
-- le framework Django et
-- Git et Github.
 
 ## Manquements actuels à ces principes
 Nous avons déjà des manquements actuels à ces règles. :-(
